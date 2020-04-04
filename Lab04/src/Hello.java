@@ -7,9 +7,8 @@ public class Hello {
 		// Add a new line with your information
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("99999999 - This line was added by Harish Kandaswamy.");
-		System.out.println("SacStateID - This line was added by Uriel Diaz.");
+		System.out.println("45634563 - This line was added by Uriel Diaz.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
-		System.out.println("SacStateID - This line was added by Uriel Diaz.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
