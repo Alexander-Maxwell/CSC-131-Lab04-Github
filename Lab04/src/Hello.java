@@ -14,7 +14,7 @@ public class Hello {
 >>>>>>> branch 'master' of https://github.com/Alexander-Maxwell/CSC-131-Lab04-Github.git
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by Uriel Diaz.");
-		System.out.println("SacStateID - This line was added by First name Last name.");
+		System.out.println("SacStateID - This line was added by Justin Filimon.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
 		System.out.println("SacStateID - This line was added by First name Last name.");
